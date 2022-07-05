@@ -4,5 +4,5 @@
 
 Natalia Madera
 Daniela Palacio
-Juan Carlos Garcia
+Juan Carlos Yepes
 Johan Sepúlveda
